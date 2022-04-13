@@ -1,0 +1,28 @@
+
+.navbar-list a {
+    
+
+    font-size: 1.2rem;
+    font-weight: 400;
+    
+}
+.custom-btn{
+   transition: .5s ease-in;
+   text-decoration: none;
+   padding: 8px 20px;
+   color: white;
+  background-color: rgb(235, 195, 94);
+  border-radius: 5px;
+  
+}
+.custom-btn:hover{
+   
+   text-decoration: none;
+   padding: 8px 20px;
+   color: black;
+   background-color: transparent;
+   border-radius: 5px;
+   border: 1px solid rgb(235, 195, 94);
+  
+
+}
